@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LionTek-Global/.github/main/profile/liontek-logo.png" width="120" />
+  <img src="https://liontekglobal.com/admin/media/api/media/file/b7b1ce14-898d-4625-96a3-8095a3750205.png" width="120" />
 </p>
 
 <h1 align="center">🦁 LionTek Global</h1>
